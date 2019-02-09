@@ -1,0 +1,21 @@
+{
+  "name": "SwiftDesk",
+  "version": "1.0.0",
+  "description": "SwiftDesk for managing all your accounts",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/ranickpatra/SwiftDesk",
+  "keywords": [
+    "swiftdesk",
+    "manage",
+    "desktop",
+    "app"
+  ],
+  "author": "GitHub",
+  "license": "LICENSE",
+  "devDependencies": {
+    "electron": "^4.0.3"
+  }
+}
