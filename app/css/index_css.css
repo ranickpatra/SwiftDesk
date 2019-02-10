@@ -1,4 +1,4 @@
-//body {font-family: "Lato", sans-serif;}
+body {font-family: "Lato", sans-serif;}
 
 /* width */
 ::-webkit-scrollbar {
@@ -24,7 +24,7 @@
 
 .sidebar {
   height: 100%;
-  width: 75px;
+  width: 60px;
   position: fixed;
   z-index: 1;
   top: 0;
@@ -50,7 +50,8 @@
 }
 
 .main {
-  margin-left: 80px; /* Same as the width of the sidenav */
+  margin-left: 60px; /* Same as the width of the sidenav */
+  margin-top: 0px;
   padding: 0px 0px;
 }
 
@@ -60,7 +61,7 @@
 }
 
 .sidebar-img {
-  width: 50px;
-  height: 50px;
+  width: 80%;
+  height: 80%;
   border-radius: 50%;
 }
